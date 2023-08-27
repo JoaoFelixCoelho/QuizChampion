@@ -1,0 +1,85 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+      "correct_answer": "Amazon",
+      "incorrect_answers": [ "eBay", "Overstock", "Shopify" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Whistler was the codename of this Microsoft Operating System.",
+      "correct_answer": "Windows XP",
+      "incorrect_answers": [ "Windows 2000", "Windows 7", "Windows 95" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does AD stand for in relation to Windows Operating Systems? ",
+      "correct_answer": "Active Directory",
+      "incorrect_answers": [ "Alternative Drive", "Automated Database", "Active Department" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+      "correct_answer": "New Mexico",
+      "incorrect_answers": [ "Washington", "Colorado", "Arizona" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many cores does the Intel i7-6950X have?",
+      "correct_answer": "10",
+      "incorrect_answers": [ "12", "8", "4" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": [ "C#", "Python", "PHP" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
+      "correct_answer": "print(&quot;Hello World&quot;)",
+      "incorrect_answers": [ "console.log(&quot;Hello World&quot;)", "echo &quot;Hello World&quot;", "printf(&quot;Hello World&quot;)" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these programming languages is a low-level language?",
+      "correct_answer": "Assembly",
+      "incorrect_answers": [ "Python", "C#", "Pascal" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the term GPU stand for?",
+      "correct_answer": "Graphics Processing Unit",
+      "incorrect_answers": [ "Gaming Processor Unit", "Graphite Producing Unit", "Graphical Proprietary Unit" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does RAID stand for?",
+      "correct_answer": "Redundant Array of Independent Disks",
+      "incorrect_answers": [ "Rapid Access for Indexed Devices", "Range of Applications with Identical Designs", "Randomized Abstract Identification Description" ]
+    }
+  ]
+}
