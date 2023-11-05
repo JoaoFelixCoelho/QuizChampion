@@ -14,6 +14,8 @@ public class QuestionManager : IQuestionManager
         _mapper = mapper;
     }
 
+    //Teste
+
     public async Task<IEnumerable<QuestionDto>> GetQuestionsForQuizz(int questionsToStart, IEnumerable<Question> allQuestions)
     {
         var randomQuestions = GenericUtil.RandomizeCollection(allQuestions).Take(questionsToStart);
